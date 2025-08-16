@@ -1,0 +1,13 @@
+
+v 3
+d GACI — Geometric Causal Inference diagnostics (κ, θ, Δ) for Stata
+d Version 0.2.0
+d Adds Hessian-transport, bootstrap, and threshold overlays
+d Requires: Stata 17+
+p gaci_suggest.ado
+p gaci_run.ado
+p gaci_compare.ado
+h gaci.sthlp
+h gaci_suggest.sthlp
+h gaci_run.sthlp
+h gaci_compare.sthlp

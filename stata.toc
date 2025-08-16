@@ -1,0 +1,6 @@
+
+v 3
+d GACI — Geometric Causal Inference diagnostics
+d Version: 0.2.0
+d Commands: gaci_suggest, gaci_run, gaci_compare
+p gaci-0.2.0.pkg
